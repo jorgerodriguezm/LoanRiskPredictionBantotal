@@ -1,4 +1,4 @@
-![](https://github.com/jorgerodriguezm/LoanRiskPrediction/blob/main/Assets/background.png)
+![](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal/blob/main/Assets/background.png)
 
 ## About this Repository
 
@@ -8,7 +8,7 @@ The goal of this repository is to use the data provided by Bantotal to create a 
 
 ### Model in this Repository:
 
-- [Bantotal Loan Risk Prediction](https://github.com/jorgerodriguezm/LoanRiskPrediction/blob/main/Model/Bantotal-Prestamos.ipynb)
+- [Bantotal Loan Risk Prediction](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal/blob/main/Model/Bantotal-Prestamos.ipynb)
 
 ### Desafio 01 | Bantotal
 
