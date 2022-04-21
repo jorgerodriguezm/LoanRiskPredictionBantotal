@@ -10,7 +10,7 @@ The goal of this repository is to use the data provided by Bantotal to create a 
 
 - [Bantotal Loan Risk Prediction](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal/blob/main/Model/Bantotal-Prestamos.ipynb)
 
-### Certificado
+### Certificate
 
 ![](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal/blob/main/Assets/Certificado_Desafio%201.png)
 
