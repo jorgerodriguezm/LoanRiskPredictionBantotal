@@ -12,7 +12,7 @@ The goal of this repository is to use the data provided by Bantotal to create a 
 
 ### Certificado
 
-![](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal/blob/main/Assets/Certificado_Desafio 1.png)
+![](https://github.com/jorgerodriguezm/LoanRiskPredictionBantotal/blob/main/Assets/Certificado_Desafio%201.png)
 
 ## Desafio 01 | Bantotal
 
